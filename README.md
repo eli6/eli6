@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Elin! 👋
 
 <!--
 **eli6/eli6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eli6)](https://github.com/eli6/github-readme-stats)-->
 
-![](https://github.com/eli6/github-stats/blob/master/generated/languages.svg)
-
-![](https://github.com/eli6/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/eli6/github-stats/blob/master/generated/languages.svg) ![](https://github.com/eli6/github-stats/blob/master/generated/overview.svg)
 
