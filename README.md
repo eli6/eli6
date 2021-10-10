@@ -1,6 +1,6 @@
 ### Hi there, I'm Elin! 👋
 
-✨  The stats include private repositories.
+
 <!--
 **eli6/eli6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 ![](https://github.com/eli6/github-stats/blob/master/generated/languages.svg) ![](https://github.com/eli6/github-stats/blob/master/generated/overview.svg)
 
+✨  The stats include private repositories.
