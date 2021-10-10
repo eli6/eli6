@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eli6)](https://github.com/eli6/github-readme-stats)-->
 
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
