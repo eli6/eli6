@@ -1,5 +1,6 @@
 ### Hi there, I'm Elin! 👋
 
+✨  The stats include private repositories.
 <!--
 **eli6/eli6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
