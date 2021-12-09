@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ✨  The stats include private repositories.
 
- 📫 How to reach me: <a href="https://www.linkedin.com/in/elinfritiofsson/">
+ 📫  <a href="https://www.linkedin.com/in/elinfritiofsson/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
