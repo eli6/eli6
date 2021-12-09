@@ -1,6 +1,6 @@
 ### Hi there, I'm Elin! 👋
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]({})
 
 <!--
 **eli6/eli6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
