@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Elin
 
-## 🚀 Cloud & AI Engineer | AWS Enthusiast | Generative AI Explorer
+## 🚀 Cloud & AI Engineer | AWS Certified Developer | Generative AI Explorer
 
 Passionate about leveraging cutting-edge technologies to build innovative solutions. Currently diving deep into the world of Large Language Models, exploring their potential through agents and Retrieval-Augmented Generation (RAG).
 
