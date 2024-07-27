@@ -8,7 +8,7 @@ Passionate about leveraging cutting-edge technologies to build innovative soluti
 - ☁️ AWS: I'm all about serverless: AWS Lambda, Dynamodb, AWS EventBridge
 - 🤖 AI/ML: LLMs, RAG, Agent-based systems
 - 💻 Languages: Typescript, Python...and more
-- 🧰 Tools: Serverless Framework, Langgraph, Langchain
+- 🧰 Tools: Serverless Framework, Langgraph, Langchain, Pinecone
 
 ### 🔬 Current Experiments
 - 🤖 Building intelligent agents with LLMs
